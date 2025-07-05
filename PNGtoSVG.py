@@ -61,7 +61,6 @@ while n=="y":
         image_selected = 0
         print("No File Selected.")
 
-
     # Again?
     response = messagebox.askyesno("One more?", "Do you want to Convert one more Image to SVG?")
     if response:
