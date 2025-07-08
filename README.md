@@ -10,6 +10,8 @@ Only tested with grayscale PNG images.
 It's REALLY fast.
 
 # How to Use
+Clone the Repo
+> gh repo clone EpicChallengerKP/PNG-to-SVG
 Install requirements
 > pip install -r requirements.txt
 
