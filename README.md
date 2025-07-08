@@ -1,5 +1,7 @@
 # PNG-to-SVG
-[![License](https://img.shields.io/badge/License-MIT-green)](https://github.com/EpicChallengerKP/PNG-to-SVG?tab=MIT-1-ov-file) br
+[![License](https://img.shields.io/badge/License-MIT-green)](https://github.com/EpicChallengerKP/PNG-to-SVG?tab=MIT-1-ov-file) <br>
+
+
 Just a normal yet fast PNG to SVG converter.
 
 # Info
